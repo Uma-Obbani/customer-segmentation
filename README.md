@@ -29,6 +29,13 @@ This project answers the key question:
 
 Using clustering algorithms, we uncover patterns in customer personality and purchasing behavior to enable **targeted and data-driven decision-making**.
 
+customer-segmentation/
+│
+├── raw/                          # Raw dataset
+├── Customer_segmenation.ipynb    # Main analysis notebook
+├── requirements.txt              # Python dependencies
+├── .gitignore
+└── README.md
 ---
 
 ## 🎯 The Challenge
